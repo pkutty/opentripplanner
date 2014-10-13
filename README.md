@@ -1,4 +1,4 @@
-#### Overview
+## Overview
 
 OpenTripPlanner (OTP) is an open source multi-modal trip planner. It depends on open data in open standard file formats (GTFS and OpenStreetMap), and includes a REST API for journey planning as well as a map-based Javascript client. OpenTripPlanner can also create travel time contour visualizations and compute accessibility indicators for planning and research applications. For more information, see the project website: http://opentripplanner.org
 
@@ -8,7 +8,7 @@ Additional instructions are available on the [OpenTripPlanner wiki](https://gith
 Here's a [quick introduction](https://github.com/opentripplanner/OpenTripPlanner/wiki/TwoMinutes).
 
 
-## Development
+#### Development
 
 OpenTripPlanner is a collaborative project incorporating code, translation, and documentation from contributors around the world. We welcome new contributions and prefer to format our code according to GeoTools-based formatting guidelines; an Eclipse autoformatter can be found at the root of this project (https://raw.github.com/openplans/OpenTripPlanner/master/formatter.xml). Further development guidelines can be found on the project wiki (https://github.com/openplans/OpenTripPlanner/wiki/DevelopersGuide).
 
